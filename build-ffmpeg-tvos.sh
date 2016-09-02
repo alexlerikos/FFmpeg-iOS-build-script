@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # directories
-SOURCE="ffmpeg-3.1.1"
+SOURCE="ffmpeg-3.1.3"
 FAT="FFmpeg-tvOS"
 
 SCRATCH="scratch-tvos"
